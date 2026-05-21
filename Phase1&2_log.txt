@@ -1,0 +1,112 @@
+Landau-Siegel Zero Detection — Phase 1: Scanning s near 1
+============================================================
+  q=19: possible zero at s = 0.9129576035 + 0.0222015767i
+  q=19: possible zero at s = 0.9129576035 + 0.0222015767i
+  q=19: possible zero at s = 0.9129576035 + 0.0222015767i
+  q=19: possible zero at s = 0.9129576035 + 0.0222015767i
+  q=19: possible zero at s = 0.9129576035 + -0.0222015767i
+  q=19: possible zero at s = 0.9129576035 + -0.0222015767i
+  q=19: possible zero at s = 0.9129576035 + -0.0222015767i
+  q=19: possible zero at s = 0.9129576035 + -0.0222015767i
+  q=23: possible zero at s = 0.7225715102 + 0.0093111855i
+  q=23: possible zero at s = 0.7225715102 + -0.0093111855i
+  q=29: possible zero at s = 0.8424864485 + 0.0199514101i
+  q=29: possible zero at s = 0.8424864485 + 0.0199514101i
+  q=29: possible zero at s = 0.8424864485 + 0.0199514101i
+  q=29: possible zero at s = 0.6831263908 + 0.0070405143i
+  q=29: possible zero at s = 0.6831263908 + -0.0070405143i
+  q=29: possible zero at s = 0.8424864485 + -0.0199514101i
+  q=29: possible zero at s = 0.8424864485 + -0.0199514101i
+  q=29: possible zero at s = 0.8424864485 + -0.0199514101i
+  q=31: possible zero at s = 0.8406758143 + -0.0018734885i
+  q=31: possible zero at s = 0.8406758143 + -0.0018734885i
+  q=31: possible zero at s = 0.8406758143 + -0.0018734885i
+  q=31: possible zero at s = 0.8406758143 + 0.0018734885i
+  q=31: possible zero at s = 0.8406758143 + 0.0018734885i
+  q=31: possible zero at s = 0.8406758143 + 0.0018734885i
+  q=37: possible zero at s = 0.8144448589 + -0.0084797251i
+  q=37: possible zero at s = 0.8144448589 + -0.0084797251i
+  q=37: possible zero at s = 0.8144448589 + -0.0084797251i
+  q=37: possible zero at s = 0.6426065388 + 0.0056806001i
+  q=37: possible zero at s = 0.6426065388 + -0.0056806001i
+  q=37: possible zero at s = 0.8144448589 + 0.0084797251i
+  q=37: possible zero at s = 0.8144448589 + 0.0084797251i
+  q=37: possible zero at s = 0.8144448589 + 0.0084797251i
+  q=41: possible zero at s = 0.7950034341 + 0.0028419696i
+  q=41: possible zero at s = 0.7950034341 + 0.0028419696i
+  q=41: possible zero at s = 0.7950034341 + 0.0028419696i
+  q=41: possible zero at s = 0.7950034341 + -0.0028419696i
+  q=41: possible zero at s = 0.7950034341 + -0.0028419696i
+  q=41: possible zero at s = 0.7950034341 + -0.0028419696i
+  q=42: possible zero at s = 0.7334428484 + 0.0103451345i
+  q=42: possible zero at s = 0.7027913219 + -0.0045724978i
+  q=42: possible zero at s = 0.7027913219 + 0.0045724978i
+  q=42: possible zero at s = 0.7334428484 + -0.0103451345i
+  q=43: possible zero at s = 0.7916839700 + -0.0135732054i
+  q=43: possible zero at s = 0.7916839700 + -0.0135732054i
+  q=43: possible zero at s = 0.7764462426 + 0.0265500352i
+  q=43: possible zero at s = 0.7764462426 + -0.0265500352i
+  q=43: possible zero at s = 0.7916839700 + 0.0135732054i
+  q=43: possible zero at s = 0.7916839700 + 0.0135732054i
+  q=47: possible zero at s = 0.7758071877 + -0.0028179347i
+  q=47: possible zero at s = 0.7758071877 + -0.0028179347i
+  q=47: possible zero at s = 0.7758071877 + -0.0028179347i
+  q=47: possible zero at s = 0.6041395908 + 0.0040710302i
+  q=47: possible zero at s = 0.6041395908 + -0.0040710302i
+  q=47: possible zero at s = 0.7758071877 + 0.0028179347i
+  q=47: possible zero at s = 0.7758071877 + 0.0028179347i
+  q=47: possible zero at s = 0.7758071877 + 0.0028179347i
+
+Phase 1 scan complete. 56 candidate zeros found.
+
+Phase 2: Global Constraint Analysis
+==================================================
+  q=3: no zeros found (potential V = 0)
+  q=4: no zeros found (potential V = 0)
+  q=5: no zeros found (potential V = 0)
+  q=6: no zeros found (potential V = 0)
+  q=7: no zeros found (potential V = 0)
+  q=8: no zeros found (potential V = 0)
+  q=9: no zeros found (potential V = 0)
+  q=10: no zeros found (potential V = 0)
+  q=11: no zeros found (potential V = 0)
+  q=12: no zeros found (potential V = 0)
+  q=13: no zeros found (potential V = 0)
+  q=14: no zeros found (potential V = 0)
+  q=15: no zeros found (potential V = 0)
+  q=16: no zeros found (potential V = 0)
+  q=17: no zeros found (potential V = 0)
+  q=18: no zeros found (potential V = 0)
+  q=19: constraint potential V = 0.000000e+00
+  q=20: no zeros found (potential V = 0)
+  q=21: no zeros found (potential V = 0)
+  q=22: no zeros found (potential V = 0)
+  q=23: constraint potential V = 0.000000e+00
+  q=24: no zeros found (potential V = 0)
+  q=25: no zeros found (potential V = 0)
+  q=26: no zeros found (potential V = 0)
+  q=27: no zeros found (potential V = 0)
+  q=28: no zeros found (potential V = 0)
+  q=29: constraint potential V = 0.000000e+00
+  q=30: no zeros found (potential V = 0)
+  q=31: constraint potential V = 0.000000e+00
+  q=32: no zeros found (potential V = 0)
+  q=33: no zeros found (potential V = 0)
+  q=34: no zeros found (potential V = 0)
+  q=35: no zeros found (potential V = 0)
+  q=36: no zeros found (potential V = 0)
+  q=37: constraint potential V = 0.000000e+00
+  q=38: no zeros found (potential V = 0)
+  q=39: no zeros found (potential V = 0)
+  q=40: no zeros found (potential V = 0)
+  q=41: constraint potential V = 0.000000e+00
+  q=42: constraint potential V = 0.000000e+00
+  q=43: constraint potential V = 0.000000e+00
+  q=44: no zeros found (potential V = 0)
+  q=45: no zeros found (potential V = 0)
+  q=46: no zeros found (potential V = 0)
+  q=47: constraint potential V = 0.000000e+00
+  q=48: no zeros found (potential V = 0)
+  q=49: no zeros found (potential V = 0)
+  q=50: no zeros found (potential V = 0)
+[Finished in 824.8s]
